@@ -1,0 +1,42 @@
+[
+    {
+        "id": 1,
+        "name": "The Lord of the Rings",
+        "author": "J. R. R. Tolkien",
+        "price": 20,
+        "img": "https://images.cdn3.buscalibre.com/fit-in/360x360/e6/27/e627aee82609632e5d77e8963af267d0.jpg",
+        "quanty": 1
+    },
+    {
+        "id": 2,
+        "name": "The Hobbit",
+        "author": "J. R. R. Tolkien",
+        "price": 12,
+        "img": "https://images.cdn1.buscalibre.com/fit-in/360x360/45/b7/45b7f5bd9c1db2699308413aaa6bed31.jpg",
+        "quanty": 1
+    },
+    {
+        "id": 3,
+        "name": "Beren and Lúthien",
+        "author": "J. R. R. Tolkien",
+        "price": 10,
+        "img": "https://images.cdn2.buscalibre.com/fit-in/360x360/ec/e2/ece2fb183eb9326ab594261614959e10.jpg",
+        "quanty": 1
+    },
+    {
+        "id": 4,
+        "name": "The Children of Húrin",
+        "author": "J. R. R. Tolkien",
+        "price": 15,
+        "img": "https://images.cdn2.buscalibre.com/fit-in/360x360/94/2d/942d525f3479273b2079b3351e342a4f.jpg",
+        "quanty": 1
+    },
+    {
+        "id": 5,
+        "name": "The Fall of Númenor",
+        "author": "J. R. R. Tolkien",
+        "price": 15,
+        "img": "https://images.cdn3.buscalibre.com/fit-in/360x360/d6/12/d612ffbdcaa8389e5f93137e401f9cee.jpg",
+        "quanty": 1
+    }
+]
